@@ -29,17 +29,11 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
-nav,main, aside {
-  float: left;
-  width: 20%;
+header {
+
 }
 
-main {
-  width: 40%;
-}
-
-aside {
-  width: 30%;
+footer {
 
 }
 
