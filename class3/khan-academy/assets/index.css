@@ -1,0 +1,56 @@
+* {
+    margin: 0%;
+}
+
+li {
+    float: left;
+    width: 16%;
+    list-style-type: none;
+    padding-right: 1px;
+    text-align: center;
+    font-size: 12px;
+}
+ul {
+    width: 90%;
+}
+
+li img {
+    width: 14%;
+}
+
+input {
+    width: 75%;
+    border: none;
+    background-color: lightgrey;
+    color: white;
+}
+
+main {
+    float: left;
+    width: 100%;
+}
+
+.sect1, .sect2 {
+    float: left;
+    width: 50%;
+    margin-top: 5%;
+} 
+
+img {
+    width: 60%;
+    float: right;
+}
+
+.sect2 {
+    text-align: center;
+    margin-top: 20%;
+}
+
+button {
+    background-color: rgb(89, 89, 236);
+    color: white;
+    border: none;
+    border-radius: 10%;
+    height: 28px;
+    margin-top: 20px;
+}
