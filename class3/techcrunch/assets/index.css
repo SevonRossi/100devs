@@ -1,0 +1,49 @@
+* {
+    margin: 0%;
+}
+
+main {
+    float: left;
+    width: 100%;
+}
+nav, .sect1, .sect2 {
+    float:left;
+   
+}
+
+li {
+    list-style: none;
+    height: 50%;
+}
+
+img {
+    width: 100%;
+}
+.sect2 li {
+    list-style: none;
+    border: 1px solid grey;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+   
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.sect1 {
+    width: 45%;
+}
+
+.sect2 {
+    width: 25%;
+}
+
+nav {
+    width: 20%;
+}
